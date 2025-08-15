@@ -8,7 +8,7 @@ export default function Contact() {
   {/* 👤 Left: Image */}
   <div className="md:w-1/2 w-full flex justify-center mb-8 md:mb-0">
     <img
-      src="src\assets\gitpic.png"
+      src="/img/gitpic.png"
       alt="Your portrait"
       className="shadow-lg w-60 h-60 object-cover scale-80"
     />

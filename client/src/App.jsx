@@ -11,26 +11,27 @@ import Bottom from './components/Bottomm.jsx';
 const projects = [
   {
     title: "Football Fixer",
-    imageUrl: "https://picsum.photos/id/1/5000/3333",
+    imageUrl: "img/the_new_tottenham_hotspur_stadium_has_an_unusual_flexible_playing_surface.jpeg",
     links: [
       { label: "GitHub", url: "https://github.com/Sahibpreet-singh/football-app" },
-      { label: "Live", url: "https://www.linkedin.com/feed/update/urn:li:activity:7347584450802716672" },
+      { label: "Live", url: "https://dashboard.render.com/web/srv-d1h7u0qdbo4c73a1dprg" },
+      { label: "Demo", url: "https://www.linkedin.com/feed/update/urn:li:activity:7347584450802716672" },
     ],
   },
   {
-    title: "Firewall helper",
-    imageUrl: "https://picsum.photos/id/2/5000/3333",
+    title: "Firewall helper (real time)",
+    imageUrl: "img/firewall.jpg",
     links: [
       { label: "GitHub", url: "https://github.com/Sahibpreet-singh/gna-hackathon" },
-      { label: "Demo", url: "https://weatherapp.com" },
+      { label: "Demo", url: "https://www.linkedin.com/feed/update/urn:li:activity:7358499084682301441" },
     ],
   },
   {
     title: "Portfolio",
-    imageUrl: "https://picsum.photos/id/4/5000/3333",
+    imageUrl: "img/portfolio.avif",
     links: [
-      { label: "GitHub", url: "https://github.com/taskmanager" },
-      { label: "Live", url: "https://taskmanager.com" },
+      { label: "GitHub", url: "https://github.com/Sahibpreet-singh/portfolio" },
+      { label: "Live", url: "https://portfolio-qho1.onrender.com" },
     ],
   },
 ];
