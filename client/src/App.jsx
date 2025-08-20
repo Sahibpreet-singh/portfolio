@@ -19,7 +19,7 @@ const projects = [
     ],
   },
   {
-    title: "Firewall helper (real time)",
+    title: "Firewall helper (real time)", 
     imageUrl: "img/firewall.jpg",
     links: [
       { label: "GitHub", url: "https://github.com/Sahibpreet-singh/gna-hackathon" },

@@ -21,11 +21,11 @@ export default function Intro({ scrollToNext, index, scrollToback }) {
     >
       {/* Top Section with more spacing from top */}
       <div className="flex flex-col md:flex-row justify-between items-center mt-20">
-        <div className="flex items-start space-x-4">
+        <div className="flex items-start space-x-4 animate-typewriter">
           <div className="w-1 h-16 bg-white rounded"></div>
 
           <div>
-            <h1 className="text-4xl font-bold text-white">Sahibpreet Singh</h1>
+            <h1 className="text-5xl font-bold text-white">Sahibpreet Singh</h1>
             <p className="text-gray-400">Software engineer</p>
 
             <div className="mt-10">
